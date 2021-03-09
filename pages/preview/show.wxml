@@ -1,0 +1,6 @@
+<image class="img-show" src="{{src}}"></image>
+
+<view>
+  <view style="float:left;margin:8px 0px 0px 10px;" bindtap="backCamera">取消</view>
+  <button bindtap="upload" style="background-color:beige;">开始评分</button> 
+</view>

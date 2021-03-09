@@ -1,0 +1,11 @@
+<image class="background" src="../../images/bg1.png" mode="aspectFill"></image>
+<view style="display:flex;top:200px;height:175px;width:100%;position: relative;">
+  <button style="border:none;" class="btnImg1" bindtap="goPhoto" plain>
+    <image class="btn" src="../../images/btn1.png" mode="aspectFill"></image>
+    相机拍照
+  </button>
+  <button style="border:none" class="btnImg2" bindtap="chooseAlbum" plain>
+    <image class="btn" src="../../images/btn2.png" mode="aspectFill"></image>
+    照片选择
+  </button>
+</view>

@@ -1,0 +1,37 @@
+ <view class="box">
+  <swiper indicator-active-color="red" indicator-color="white" indicator-dots="true" class="head-banner" autoplay="true" interval="3500">
+    <swiper-item>
+      <image src="/images/swiper-item1.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/swiper-item2.jpg"></image>
+    </swiper-item>
+    </swiper>
+
+  <view class="content">
+    <view class="content-detail">
+      <image style="margin-left:8%" src="/images/zhao1.png"></image>
+      <image style="margin-left:10%" src="/images/zhao2.png"></image>
+      <image style="margin-left:10%" src="/images/zhao3.png" ></image>
+    </view>
+
+    <view class="content-detail">
+      <text style="margin-left:12%;width=160rpx">婚纱照</text>
+      <text style="margin-left:16%;width=160rpx">艺术照</text>
+      <text style="margin-left:18%;width=160rpx">儿童照</text>
+    </view>
+
+    <view class="content-detail">
+      <image style="margin-left:8%" src="/images/zhao4.png"></image>
+      <image style="margin-left:10%" src="/images/zhao5.png"></image>
+      <image style="margin-left:10%" src="/images/zhao6.png" ></image>
+    </view>
+
+    <view class="content-detail">
+      <text style="margin-left:12%;width=160rpx">宝妈照</text>
+      <text style="margin-left:15%;width=160rpx">淘宝产品照</text>
+      <text style="margin-left:10%;width=160rpx">公司形象照</text>
+    </view>
+  </view>
+
+ </view>

@@ -1,0 +1,33 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/camera/index",
+    "pages/preview/show",
+    "pages/photo/photo",
+    "pages/result/result"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/ficon1.png",
+        "selectedIconPath": "images/oicon1.png"
+      },
+      {
+        "pagePath": "pages/camera/index",
+        "text": "拍照",
+        "iconPath": "images/ficon2.png",
+        "selectedIconPath": "images/oicon2.png"
+      }
+    ]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

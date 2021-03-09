@@ -1,0 +1,6 @@
+/* pages/preview/show.wxss */
+.img-show{
+  position: relative;
+  width: 100%;
+  height: 500px;
+}

@@ -1,0 +1,11 @@
+.head-banner{width: 100%;height: 500rpx}
+
+swiper-item image{width: 100%;height: 500rpx}
+
+.content{width:100%;display: flex;flex-direction: column;}
+
+.content image{height: 160rpx;width: 160rpx}
+
+.content-detail{width:100%;display: flew;flex-direction: row;margin-top: 40rpx}
+
+
